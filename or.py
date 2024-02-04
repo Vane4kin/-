@@ -108,7 +108,3 @@ croissant = Croissant()
 nick.eat_croissant(croissant)
 kate.eat_croissant(croissant)
 john.eat_croissant(croissant)
-
-доступно
-контекстное
-меню
